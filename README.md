@@ -60,4 +60,4 @@ Solutions may evolve as I learn better approaches and improve existing implement
 
 ---
 
-> Consistency over intensity — solve, understand, revisit, improve.
+> Always understand that true purpose always comes from within, beginning from the desire to change yourself and to become someone who you would idolize.
