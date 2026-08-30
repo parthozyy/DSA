@@ -11,4 +11,9 @@ Vectors in cpp
 1. | vector&lt;data type&gt; name of vector; | This is the syntax of the vector - vector is a dynamic array
 2. vectors are dynamically allocated memory during runtime
 3. When the vector gets filled then the capacity doubles to accomodate the push_back() element
-4. Did leetcode 136th problem, in which i learned n ^  0 = n and n ^n = 0 i.e when i XOR n with the same element then the output is 0 and when i XOR n with 0 then the output is n itself
+4. Did leetcode 136th problem, in which i learned n ^ 0 = n and n ^n = 0 i.e when i XOR n with the same element then the output is 0 and when i XOR n with 0 then the output is n itself
+
+Subarray
+
+1. Subarray is a continous part of an array, ex in 1,2,3,4,5 array, subarray is 1 or 1,2 or 4,5 or 1,2,3,4 , etc.
+2. Total number of sub arrays from an array is T = \[n \* (n+1) \]/ 2
